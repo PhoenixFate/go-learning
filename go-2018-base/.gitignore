@@ -1,0 +1,9 @@
+null
+.idea
+*.iml
+out
+target
+.DS_STORE
+*.exe
+*.db
+

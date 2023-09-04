@@ -1,0 +1,6 @@
+.idea
+null
+*.iml
+*.db
+*.exe
+.DS_STORE
